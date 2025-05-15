@@ -1,0 +1,14 @@
+/build/
+/.vscode/
+/.idea/
+*.exe
+*.obj
+*.lib
+*.pdb
+*.dll
+CMakeFiles/
+CMakeCache.txt
+*.user
+*.sln
+*.vcxproj*
+.vcpkg_installed/
